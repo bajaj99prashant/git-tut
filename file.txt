@@ -1,1 +1,1 @@
-git tut
+git tutorial
